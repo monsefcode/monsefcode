@@ -5,7 +5,7 @@
 <a href="https://github.com/monsefcode" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, TypeScript, React etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
